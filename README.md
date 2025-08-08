@@ -6,4 +6,5 @@ The goal of this archive is to document personal progress, share useful approach
 
 ## 🔗 View on Kaggle
 You can explore all original notebooks on my Kaggle profile:
+
 ➡️ [My Kaggle Notebooks](https://www.kaggle.com/simonflora/code)
